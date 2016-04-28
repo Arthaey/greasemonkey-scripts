@@ -4,6 +4,7 @@
 // @description    Collapses gmail labels to a small box, which expands when hovered over
 // @include        http*://mail.google.com/*
 // @grant          GM_addStyle
+// @downloadUrl    https://raw.githubusercontent.com/Arthaey/greasemonkey-scripts/master/GmailCollapseLabels.user.js
 // ==/UserScript==
 // Originally from http://userscripts.org/scripts/show/65974
 

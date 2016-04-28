@@ -4,6 +4,7 @@
 // @description    Makes the background of emails gray & other parts transparent.
 // @include        http*://mail.google.com/*
 // @grant          GM_addStyle
+// @downloadUrl    https://raw.githubusercontent.com/Arthaey/greasemonkey-scripts/master/GmailGrayMailBackground.user.js
 // ==/UserScript==
 
 GM_addStyle(".nH .aHU { background-color: #E5E9EC; border-radius: 5px }");
